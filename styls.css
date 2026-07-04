@@ -1,0 +1,19 @@
+body{
+    background-color: #222831;
+}
+span{
+    color: antiquewhite;
+}
+legend{
+    color: aqua;
+}
+.s{
+     color: rgb(79, 51, 132);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.t{
+    color: rgb(79, 51, 132);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
