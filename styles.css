@@ -1,0 +1,151 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+ }
+ body{
+    background-color: #222831;
+ }
+ header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2px auto;
+    max-width: 1200px;
+ }
+ .navi ul {
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+}
+.navi a{
+    text-decoration: none;
+    color: beige;
+
+}
+.navi a:hover{
+    color: aqua;
+}
+hr{
+    opacity: 15%;
+}
+.herro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5rem auto;
+    max-width: 1200px;
+}
+.herosub{
+     display: flex;
+     flex-direction: column;
+     gap: 0.5rem;
+}
+.l{
+    font-size: 40px;
+    color: antiquewhite;
+}
+.k{
+    font-size: 30px;
+    color: aqua;
+}
+.j{
+    color: antiquewhite;
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    
+    
+    
+}
+span{
+    color: aqua;
+    font-size:30px;
+}
+.img{
+     width: 285px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 20px;
+
+
+}
+p{
+    color: antiquewhite;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.m{
+    color: aqua;
+}
+.menu{
+    color: rgb(192, 138, 68);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.commande {
+    color: rgb(192, 138, 68);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.commande :hover{
+  color: aqua;
+}
+.p{
+    color: rgb(178, 158, 132);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-left: 600px;
+}
+.n{
+    display: flex;
+    justify-content: left;
+    align-items: normal;
+}
+h2{
+    color: bisque;
+}
+.w{
+    margin-left: 300px;
+}
+.wi{
+    margin-left: 150px;
+}
+.win{
+font-size: small;
+margin-left: 400px;
+}
+.no{
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.lo{
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.li{
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.lu{
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.ly{
+    margin-left: 800px;
+}
+.bo{
+   margin-bottom: 250px;
+   
+}
